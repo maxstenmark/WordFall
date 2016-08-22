@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MINERVA</Machine>
+    <WindowsUser>Mr X</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a456532d-97f3-4986-a59a-29737a489455</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\WordFall.exe">
+      <PackagePath>WordFall.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\packages\SharpDX.2.6.2\build\..\Bin\DirectX11_2-Signed-wp81\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\packages\SharpDX.2.6.2\build\..\Bin\DirectX11_2-Signed-wp81\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\Badge.scale-240.png">
+      <PackagePath>Assets\Badge.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\LogoSmall.png">
+      <PackagePath>Assets\LogoSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\Square 150×150 Logo.scale-240.png">
+      <PackagePath>Assets\Square 150×150 Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\Square 44×44 Logo.scale-240.png">
+      <PackagePath>Assets\Square 44×44 Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\Square 71×71 Logo.scale-240.png">
+      <PackagePath>Assets\Square 71×71 Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\t1.png">
+      <PackagePath>Assets\t1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\Wide 310×150 Logo.png">
+      <PackagePath>Assets\Wide 310×150 Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Audio\Dissapoited.wav">
+      <PackagePath>Audio\Dissapoited.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Audio\ping.wav">
+      <PackagePath>Audio\ping.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Audio\tic.wav">
+      <PackagePath>Audio\tic.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\Audio\Winning.wav">
+      <PackagePath>Audio\Winning.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\DataEng.txt">
+      <PackagePath>DataEng.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\DataSwe.txt">
+      <PackagePath>DataSwe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\WordFall.xr.xml">
+      <PackagePath>WordFall.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\GameOver.xbf">
+      <PackagePath>GameOver.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\t1.xbf">
+      <PackagePath>t1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\t2.xbf">
+      <PackagePath>t2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\t3.xbf">
+      <PackagePath>t3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\t4.xbf">
+      <PackagePath>t4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr X\Documents\Visual Studio 2013\Projects\WordFall\WordFall\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

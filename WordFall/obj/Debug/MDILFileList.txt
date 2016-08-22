@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Files><file>\SharpDX.dll</file><file>\SharpDX.XAudio2.dll</file><file>\WordFall.exe</file></Files>
